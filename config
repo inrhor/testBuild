@@ -1,0 +1,11 @@
+login:
+  center:
+    ==: org.bukkit.Location
+    world: world
+    x: 94.18075239395814
+    y: 65.24459586424605
+    z: 197.1387328413506
+    pitch: 14.595613
+    yaw: 17.180946
+  addR: 5
+eee: eee

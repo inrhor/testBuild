@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "be09c5e1-a410-3b9b-b9ca-c0a010528c4b",
+    "name": "iPlugin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3d817e61-08f7-47b7-be29-d76db9b435e5",
+    "name": "inrhor",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "828cfbf6-aca6-32c9-ad64-34b5b6d8ac34",
+    "name": "inrhor",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
